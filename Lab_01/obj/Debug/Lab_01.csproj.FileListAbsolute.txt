@@ -1,0 +1,5 @@
+G:\UVU\Spring 2017\CS1400\Lab_01\Lab_01\bin\Debug\Lab_01.exe
+G:\UVU\Spring 2017\CS1400\Lab_01\Lab_01\bin\Debug\Lab_01.pdb
+G:\UVU\Spring 2017\CS1400\Lab_01\Lab_01\obj\Debug\Lab_01.csprojResolveAssemblyReference.cache
+G:\UVU\Spring 2017\CS1400\Lab_01\Lab_01\obj\Debug\Lab_01.exe
+G:\UVU\Spring 2017\CS1400\Lab_01\Lab_01\obj\Debug\Lab_01.pdb
